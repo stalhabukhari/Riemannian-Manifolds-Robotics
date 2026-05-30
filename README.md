@@ -3,7 +3,7 @@
 
 This repository contains the preprint of the book **Riemannian Manifold in Robot Learning, Optimization, and Control** to be published by Cambridge University Press. This book covers the theoretical foundations and applications of Riemannian geometry in robot learning, optimization and control. 
 
-Main authors: Noémie Jaquier and Leonel Rozo
+Main authors: [Noémie Jaquier](https://njaquier.ch) and [Leonel Rozo](https://leonelrozo.weebly.com)
 
 Contributors: Hans-Peter Schröcker, Arne Sachtler, Søren Hauberg, Andras Kupcsik, Suvrit Sra, and Alin Albu-Schäffer
 
@@ -20,7 +20,7 @@ The book is accompanied by the recordings of three 1-day tutorials, whose Youtub
 - **Riemann and Gauss meet Asimov: 3rd tutorial on Geometric Methods in Robot Learning, Optimization, and Control**, ICRA 2026. To be released soon.
 
 ## How to Cite this Book?
-Please cite this book as a book chapter. You can find the bibliography entry for each chapter in the dropdown menu below.
+When using content from a specific chapter, please cite the book chapter. You can find the bibliography entry for each chapter in the dropdown menu below.
  
 
 <details><summary>Chapter 1: Introduction</summary>
